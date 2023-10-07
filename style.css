@@ -1,0 +1,26 @@
+body, h1, p {
+    margin: 10px;
+    padding: 0;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'carter one', cursive;
+    text-align: center;
+}
+
+main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.lyrics {
+    background-color: white;
+    padding: 30px;
+    border: 0px solid #ccc;
+    font-size: 30px;
+    line-height: 2;
+    font-family: 'creepster', sans-serif;
+}
+
